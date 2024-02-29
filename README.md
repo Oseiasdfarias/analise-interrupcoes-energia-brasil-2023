@@ -32,7 +32,7 @@ Pode ser obtida em [Link Base de Dados](https://dadosabertos.aneel.gov.br/datase
 Analisar os Agentes Regulados com relação as interrupções, definindo quais são os melhores e piores fornecedores de energia e assistencia técnica;
 
 
-## Perguntas chaves:
+## Perguntas chaves
 
 + Qual o total de interrupções por estado e por Agente Regulado?;
   - Gráfico de Barras para melhor visualização;
