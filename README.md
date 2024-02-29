@@ -1,5 +1,7 @@
+<a name="readme-top"></a>
+
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/oseiasfarias/)]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
   <img height="60px" src="https://dadosabertos.aneel.gov.br/uploads/group/2022-08-23-193719.950953MARCAS-ANEEL-022.png">
