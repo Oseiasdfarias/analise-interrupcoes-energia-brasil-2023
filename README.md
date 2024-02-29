@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="#descricao">Descrição</a> •
+  <a href="#descrição">Descrição</a> •
   <a href="#objetivo">Objetivo</a> •
   <a href="#pergutas-chaves">Perguntas Chaves</a> •
   <a href="#credits">Credits</a> •
