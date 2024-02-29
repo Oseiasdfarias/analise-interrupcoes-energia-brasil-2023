@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 <p align="center">
   <img height="60px" src="https://dadosabertos.aneel.gov.br/uploads/group/2022-08-23-193719.950953MARCAS-ANEEL-022.png">
