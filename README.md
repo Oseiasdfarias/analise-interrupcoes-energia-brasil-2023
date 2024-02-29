@@ -34,18 +34,18 @@ Analisar os Agentes Regulados com relação as interrupções, definindo quais s
 
 ## Perguntas Chaves
 
-+ Qual o total de interrupções por estado e por Agente Regulado?;
-  - Gráfico de Barras para melhor visualização;
-+ Qual o total de horas de interrupções por estado e por Agente Regulado?;
-  - Gráfico de Barras para melhor visualização;
++ Qual o total de interrupções por estado e por Agente Regulado?
+  - Gráfico de Barras para melhor visualização.
++ Qual o total de horas de interrupções por estado e por Agente Regulado?
+  - Gráfico de Barras para melhor visualização.
 
 
-+ Qual o total mensal de interrupções de energia por estado e por Agente Regulado?;
-  - Gráfico de Barras para melhor visualização;
-+ Qual o total mensal de horas de interrupções de energia por estado e por Agente Regulado?;
-  - Gráfico de Barras para melhor visualização;
++ Qual o total mensal de interrupções de energia por estado e por Agente Regulado?
+  - Gráfico de Barras para melhor visualização.
++ Qual o total mensal de horas de interrupções de energia por estado e por Agente Regulado?
+  - Gráfico de Barras para melhor visualização.
 
-+ Quais os estados ou Agente Relugado que menos tem interrupções usando a quantidade de horas totais;
++ Quais os estados ou Agente Relugado que menos tem interrupções usando a quantidade de horas totais.
 
-+ Quais os estados ou Agente Relugado que mais tem interrupções usando a quantidade de horas totais;
++ Quais os estados ou Agente Relugado que mais tem interrupções usando a quantidade de horas totais.
 
