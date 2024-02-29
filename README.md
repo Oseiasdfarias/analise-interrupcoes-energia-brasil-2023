@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
+  <a href=""><img src="https://img.shields.io/gitter/room/Oseiasdfarias/analise-interrupcoes-energia-brasil-2023?style=flat-square"></a>
 </p>
 
 <p align="center">
