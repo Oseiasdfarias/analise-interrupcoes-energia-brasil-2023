@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#descrição">Descrição</a> •
   <a href="#objetivo">Objetivo</a> •
-  <a href="#pergutas-chaves">Perguntas Chaves</a> •
+  <a href="#perguntas-chaves">Perguntas Chaves</a> •
   <a href="#credits">Credits</a> •
 </p>
 
