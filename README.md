@@ -6,7 +6,6 @@
   <a href="#descrição">Descrição</a> •
   <a href="#objetivo">Objetivo</a> •
   <a href="#perguntas-chaves">Perguntas Chaves</a> •
-  <a href="#credits">Credits</a> •
 </p>
 
 <p align="center">
@@ -35,17 +34,43 @@ Analisar os Agentes Regulados com relação as interrupções, definindo quais s
 ## Perguntas Chaves
 
 + Qual o total de interrupções por estado e por Agente Regulado?
-  - Gráfico de Barras para melhor visualização.
-+ Qual o total de horas de interrupções por estado e por Agente Regulado?
-  - Gráfico de Barras para melhor visualização.
+
+<p align="center">
+  <img height="60%" src="./utils/fig_03.png">
+</p>
+
++ Quais Agente Relugado que mais tem interrupções?
+  
+<p align="center">
+  <img height="60%" src="./utils/fig_mais_inte.png">
+</p>
+
++ Quais Agente Relugado que menos tem interrupções?
+
+<p align="center">
+  <img height="60%" src="./utils/fig_menos_inte.png">
+</p>
+
++ Quantidade de Interrupções por Nivel de Tensão por Agente Regulado?
+  - Nível de Tensão 127v
+<p align="center">
+  <img height="60%" src="./utils/fig_inte_127v.png">
+</p>
 
 
-+ Qual o total mensal de interrupções de energia por estado e por Agente Regulado?
-  - Gráfico de Barras para melhor visualização.
-+ Qual o total mensal de horas de interrupções de energia por estado e por Agente Regulado?
-  - Gráfico de Barras para melhor visualização.
+  - Nível de Tensão 220V
+<p align="center">
+  <img height="60%" src="./utils/fig_inte_220v.png">
+</p>
 
-+ Quais os estados ou Agente Relugado que menos tem interrupções usando a quantidade de horas totais.
+  - Nível de Tensão 13,8kV
+<p align="center">
+  <img height="60%" src="./utils/fig_inte_13800v.png">
+</p>
 
-+ Quais os estados ou Agente Relugado que mais tem interrupções usando a quantidade de horas totais.
+  - Nível de Tensão 69kV
+<p align="center">
+  <img height="60%" src="./utils/fig_inte_69000v.png">
+</p>
+
 
